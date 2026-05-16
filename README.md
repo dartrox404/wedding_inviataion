@@ -1,17 +1,34 @@
-# weeding_invitation
+# 💒 Wedding Invitation
 
-A new Flutter project.
+A beautiful and modern **Flutter** mobile application for digital wedding invitations.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Stunning Onboarding** with smooth animations
+- **Interactive Scratch Card** (flutter_scratch_card)
+- **Image Carousel** with beautiful wedding photos
+- **Lottie Animations**
+- **Interactive Map** (flutter_map + latlong2)
+- **Custom Fonts** (Raleway, Aston Script, Poppins, etc.)
+- **SVG Support**
+- **Responsive Design** (Android, iOS, Web)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Onboarding](assets/images/Screenshot_20260516-223012.png)
+![Greeting Card](assets/images/Screenshot_20260516-223017.png)
+![CountDowm Card](assets/images/Screenshot_20260516-223129.png)
+![Contact Card](assets/images/Screenshot_20260516-223035.png)
+![Location Card](assets/images/Screenshot_20260516-223031.png)
+
+
+## 🚀 How to Run
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/dartrox404/wedding_inviataion.git
+   cd wedding_inviataion
